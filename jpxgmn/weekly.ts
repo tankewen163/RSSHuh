@@ -11,7 +11,7 @@ export const route: Route = {
     example: '/jpxgmn/weekly',
     radar: [
         {
-            source: ['www.12356782.xyz/'],
+            source: ['https://www.xinggan5.top/'],
             target: '/weekly',
         },
     ],
